@@ -56,6 +56,8 @@ int main(int argc, char *argv[]){
     
     fgets(sendline, 1000, stdin);
     
+    //printf("\n|%d|\n",strlen(sendline));
+    
     if(sendto(sockfd, sendline, strlen(sendline)+1, 
     0, (struct sockaddr *) &servaddr, 
     sizeof(servaddr)) < 0){
