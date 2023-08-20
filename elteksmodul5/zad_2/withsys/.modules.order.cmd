@@ -1,0 +1,1 @@
+cmd_/home/student/modul3rep/elteksmodul5/zad_2/withsys/modules.order := {   echo /home/student/modul3rep/elteksmodul5/zad_2/withsys/mysys.o; :; } > /home/student/modul3rep/elteksmodul5/zad_2/withsys/modules.order

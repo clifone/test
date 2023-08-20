@@ -1,0 +1,1 @@
+cmd_/home/student/modul3rep/elteksmodul5/zad_2/withsys/mysys.mod := printf '%s\n'   mysys.o | awk '!x[$$0]++ { print("/home/student/modul3rep/elteksmodul5/zad_2/withsys/"$$0) }' > /home/student/modul3rep/elteksmodul5/zad_2/withsys/mysys.mod
