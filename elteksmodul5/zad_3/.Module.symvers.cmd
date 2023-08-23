@@ -1,1 +1,0 @@
-cmd_/home/student/modul3rep/elteksmodul5/zad_3/Module.symvers :=  scripts/mod/modpost -m -a     -o /home/student/modul3rep/elteksmodul5/zad_3/Module.symvers -T /home/student/modul3rep/elteksmodul5/zad_3/modules.order -i Module.symvers -e 
